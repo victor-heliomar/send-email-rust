@@ -1,6 +1,11 @@
+![Made in Rust](https://badgen.net/badge/Made%20in/Rust)
+
 # SEND-EMAIL-RUST
 
-SEND-EMAIL-RUST is a program to send emails through the command line console.
+Send emails using the terminal, created in Rust.
+
+![imagen](https://user-images.githubusercontent.com/66505715/189235634-14f60751-99ec-4c4d-9a71-1c5295e59a9c.png)
+![imagen](https://user-images.githubusercontent.com/66505715/189235693-a9c3ccf0-bd29-461d-9e17-6cc580c0f1f2.png)
 
 ### How to use
 
